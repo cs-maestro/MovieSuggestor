@@ -37,3 +37,7 @@ The Movie Suggestor project aims to assist users in discovering new movies that 
 ## Dataset
 
 The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielens/) for movie ratings and information. The dataset contains a collection of movies along with user ratings.
+
+## Contributing
+
+Contributions to the Coding Task Extractor project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
