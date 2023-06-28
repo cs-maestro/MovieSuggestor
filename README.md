@@ -29,9 +29,10 @@ The Movie Suggestor project aims to assist users in discovering new movies that 
 
 1. Clone the repository to your local machine.
 2. Install the required libraries by running `pip install -r requirements.txt`.
-3. Run the `main.py` file to start the program.
-4. Follow the prompts to enter your favorite movie names and the number of recommended movies.
-5. The program will display the recommended movies based on your input.
+3. Download the dataset from [MovieLens](https://grouplens.org/datasets/movielens/) and extract movies.csv and ratings.csv into the project folder.
+4. Run the `main.py` file to start the program.
+5. Follow the prompts to enter your favorite movie names and the number of recommended movies.
+6. The program will display the recommended movies based on your input.
 
 ## Dataset
 
